@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: User Login in the Adactin Application.
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.431 s - in Scenario: User Login in the Adactin Application.
